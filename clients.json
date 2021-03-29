@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "user": "monica",
+      "category": 1,
+      "address": "Chingolo"
+    },
+    {
+      "user": "monica",
+      "category": 1,
+      "address": "Chingolo"
+    },
+    {
+      "user": "monica",
+      "category": 1,
+      "address": "Chingolo"
+    }
+  ]
+}
